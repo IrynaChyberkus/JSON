@@ -1,10 +1,10 @@
 {
-'ID': 478
-'Severity': 'Minor',
-'Environment':   'Windows 11 Chrome 114',
-'Title': 'Text isn_t translated on Quiclinks menu',
-'Steps':  '1. Navigate to Capital.com 2. Select Language Deutsch 3. Look at the bar of [Quicklinks menu] 4. Look at the text Desktop Trading',
-'Expected Result': 'All text on this bar should be traslated into Deutsch',
-'Actual Result': 'The text Desktop Trading and name of the menu Quicklinks are written in English',
-'Link': ''
+"ID": 478,
+"Severity": "Minor",
+"Environment":   "Windows 11 Chrome 114",
+"Titl": "Text isn_t translated on Quiclinks menu",
+"Steps":  "1. Navigate to Capital.com 2. Select Language Deutsch 3. Look at the bar of [Quicklinks menu] 4. Look at the text Desktop Trading",
+"Expected Result": "All text on this bar should be traslated into Deutsch",
+"Actual Result": "The text Desktop Trading and name of the menu Quicklinks are written in English",
+"Link": ""
 }
